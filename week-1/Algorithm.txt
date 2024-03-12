@@ -1,0 +1,62 @@
+//Simple interest
+
+Step one:
+Break down the problem by expanding the brackets.
+
+<!--Inference-->
+
+The formula thats given can simply be defined as:
+
+(P * R * T)/100
+
+#This is a much easier code to write.
+
+
+
+Psuedocode:
+
+
+let p = principal
+
+let r = rate (Percentage*)
+
+let t = time
+
+let SI = (P * R * T)/100
+
+print SI
+
+
+
+
+//compound interest
+
+
+let p = principal
+
+let r = rate (Percentage*)
+
+let t = time
+
+
+let CI = P * ((1 + (R / 100)) ** T - 1)
+
+print CI
+
+
+//annuity plan
+
+
+PMT: periodic payment
+
+let p = principal
+
+let r = rate (Percentage*)
+
+let t = time
+
+
+let AP = PMT * (1 - (1 + R / n) ** (-n * T)) / (R / n)
+
+print AP
+
