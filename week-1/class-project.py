@@ -1,4 +1,4 @@
-# Simple Interest
+#Simple Interest
 p = 1000
 r = 5
 t = 2
@@ -7,7 +7,7 @@ t = 2
 si = (p * (1 + (r * t)/ 100))
 print(si)
 
-# Compound Interest
+#Compound Interest
 p = 1000
 r = 5
 t = 2
