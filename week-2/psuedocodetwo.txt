@@ -1,0 +1,14 @@
+1. Start.
+2. Wake up.
+3. Check the time.
+4. If the time is 6am:
+    5. Go to the bathroom,
+    6. Take a shower,
+    7. Go back to the room to have my breakfast.
+8. Else:
+   9. Go back to sleep.
+10. Arrange my bed.
+11. Finish my COS 101 assignment before its due.
+12. Go outside.
+13. End
+

@@ -1,0 +1,22 @@
+1. Start
+2. Display total amount due
+3. Prompt user to select payment method
+4. If payment method is credit card:
+     5. Prompt user to enter credit card details
+     6. Process payment
+     7. If payment is successful:
+          8. Print receipt
+          9. Thank the customer
+     10. Else:
+          11. Display payment failure message
+4. Else if payment method is cash:
+     12. Prompt user to enter amount tendered
+     13. Calculate change
+     14. If amount tendered is sufficient:
+          15. Print receipt
+          16. Thank the customer
+     17. Else:
+          18. Display amount due message
+19. End
+
+

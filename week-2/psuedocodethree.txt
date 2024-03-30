@@ -1,0 +1,7 @@
+1. Start
+2. Input NAME1,
+3. Input AGE1,
+4. AGE1 = AGE2
+5. Input NAME2,
+6. Input AGE2,
+7. AGE2 = AGE1,
